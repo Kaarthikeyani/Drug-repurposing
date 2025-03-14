@@ -1,0 +1,31 @@
+﻿Disease Name,Pathway,Gene,Pathway Coverage,Mechanism,Symptoms,Gene Expression
+Rheumatoid Arthritis,Inflammatory Pathway,HLA-DRB1,0.8,Joint inflammation,"Joint pain, swelling",Moderate
+Crohn's Disease,Inflammatory Bowel Disease Pathway,NOD2,0.75,Chronic inflammation,"Diarrhea, abdominal pain",Moderate
+Chronic Kidney Disease,Renal Pathway,PKD1,0.8,Kidney function decline,"Fatigue, swelling",Moderate
+Lupus,Autoimmune Response,SLE,0.8,Immune system attack,"Fatigue, joint pain",High
+Asthma,Asthma Pathway,IL4,0.75,Airway inflammation,"Shortness of breath, wheezing",Moderate
+Tuberculosis,Immune Response Pathway,TB,0.9,Bacterial infection,"Cough, weight loss, fever",Moderate
+Hypertension,Blood Pressure Regulation,AGT,0.7,Blood vessel constriction,"Headache, dizziness",Moderate
+Crohn's Disease,Inflammatory Bowel Disease Pathway,NOD2,0.75,Chronic inflammation,"Diarrhea, abdominal pain",Moderate
+Parkinson's Disease,Dopamine Pathway,SNCA,0.75,Dopamine depletion,"Tremors, rigidity, bradykinesia",Moderate
+Diabetes,Insulin Signaling,INS,0.8,Insulin resistance,"Excessive thirst, frequent urination",High
+Multiple Sclerosis,Immune System Pathway,HLA-DRB1,0.6,Demyelination,"Vision problems, muscle weakness",High
+HIV/AIDS,HIV Life Cycle,HIV1,0.6,Immune system depletion,"Fever, weight loss, lymphadenopathy",High
+Migraine,Pain Pathway,CGRP,0.7,Vasodilation,"Headache, nausea",Moderate
+Parkinson's Disease,Dopamine Pathway,SNCA,0.75,Dopamine depletion,"Tremors, rigidity, bradykinesia",Moderate
+Multiple Sclerosis,Immune System Pathway,HLA-DRB1,0.6,Demyelination,"Vision problems, muscle weakness",High
+Chronic Kidney Disease,Renal Pathway,PKD1,0.8,Kidney function decline,"Fatigue, swelling",Moderate
+Epilepsy,Neural Pathway,SCN1A,0.8,Neuronal hyperexcitability,"Seizures, loss of consciousness",High
+Migraine,Pain Pathway,CGRP,0.7,Vasodilation,"Headache, nausea",Moderate
+Crohn's Disease,Inflammatory Bowel Disease Pathway,NOD2,0.75,Chronic inflammation,"Diarrhea, abdominal pain",Moderate
+Rheumatoid Arthritis,Inflammatory Pathway,HLA-DRB1,0.8,Joint inflammation,"Joint pain, swelling",Moderate
+Osteoporosis,Bone Resorption,ESR1,0.8,Bone degradation,"Fractures, bone pain",Moderate
+Rheumatoid Arthritis,Inflammatory Pathway,HLA-DRB1,0.8,Joint inflammation,"Joint pain, swelling",Moderate
+Migraine,Pain Pathway,CGRP,0.7,Vasodilation,"Headache, nausea",Moderate
+Multiple Sclerosis,Immune System Pathway,HLA-DRB1,0.6,Demyelination,"Vision problems, muscle weakness",High
+Cancer,P53 Pathway,TP53,0.9,Tumor suppression failure,"Fatigue, weight loss, pain",High
+Chronic Kidney Disease,Renal Pathway,PKD1,0.8,Kidney function decline,"Fatigue, swelling",Moderate
+Hypertension,Blood Pressure Regulation,AGT,0.7,Blood vessel constriction,"Headache, dizziness",Moderate
+Rheumatoid Arthritis,Inflammatory Pathway,HLA-DRB1,0.8,Joint inflammation,"Joint pain, swelling",Moderate
+Epilepsy,Neural Pathway,SCN1A,0.8,Neuronal hyperexcitability,"Seizures, loss of consciousness",High
+Schizophrenia,Neurotransmitter Pathway,DISC1,0.75,Dopamine imbalance,"Hallucinations, delusions",High

@@ -1,0 +1,31 @@
+Drug Name,SMILES,Target,Binding Affinity,Mechanism,Category,Molecular Weight,Toxicity
+Hydroxychloroquine,CCN(CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl)CCO,Plasmodium,500,Inhibits parasite replication,Antimalarial,334.91,High
+Atorvastatin,CC(C)C1=C(C(=C(N1CCC(CC(CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4,HMG-CoA reductase,450,Inhibits cholesterol synthesis,Statin,558.63,Low
+Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,COX-2,150,COX Inhibition,NSAID,206.28,Low
+Chloroquine,CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl,Plasmodium,500,Inhibits heme polymerization,Antimalarial,318.87,High
+Tamoxifen,CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3,Estrogen receptor,350,Inhibits estrogen receptors,Anticancer,371.51,Moderate
+Aspirin,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,100,COX Inhibition,Anti-inflammatory,180.16,Low
+Cetirizine,C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,H1 receptor,300,H1 receptor antagonism,Antihistamine,383.87,Low
+Aspirin,CC(=O)OC1=CC=CC=C1C(=O)O,COX-1,100,COX Inhibition,Anti-inflammatory,180.16,Low
+Prednisolone,CC12CC(C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C)O,Glucocorticoid receptor,400,Corticosteroid receptor agonist,Anti-inflammatory,374.46,Moderate
+Metformin,CN(C)C(=N)N=C(N)N,AMPK,250,AMPK activation,Anti-diabetic,129.16,Low
+Chloroquine,CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl,Plasmodium,500,Inhibits heme polymerization,Antimalarial,318.87,High
+Chloroquine,CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl,Plasmodium,500,Inhibits heme polymerization,Antimalarial,318.87,High
+Amlodipine,CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN,Calcium channel,250,Calcium channel blocker,Antihypertensive,408.71,Low
+Zolpidem,CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C,GABA-A receptor,450,GABA receptor agonist,Sedative,308.23,Low
+Ranitidine,CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C,Histamine receptor,400,Histamine receptor antagonist,Antacid,314.37,Moderate
+Zolpidem,CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C,GABA-A receptor,450,GABA receptor agonist,Sedative,308.23,Low
+Cetirizine,C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,H1 receptor,300,H1 receptor antagonism,Antihistamine,383.87,Low
+Losartan,CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)CO)Cl,Angiotensin II receptor,200,Angiotensin receptor antagonism,Antihypertensive,423.87,Low
+Hydroxychloroquine,CCN(CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl)CCO,Plasmodium,500,Inhibits parasite replication,Antimalarial,334.91,High
+Cimetidine,CC1=C(N=CN1)CSCCNC(=NC)NC#N,Histamine receptor,300,Inhibits stomach acid production,Antacid,299.35,Moderate
+Chloroquine,CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl,Plasmodium,500,Inhibits heme polymerization,Antimalarial,318.87,High
+Hydroxychloroquine,CCN(CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl)CCO,Plasmodium,500,Inhibits parasite replication,Antimalarial,334.91,High
+Paracetamol,CC(=O)NC1=CC=C(C=C1)O,COX,300,COX Inhibition,Analgesic,151.16,Moderate
+Ranitidine,CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C,Histamine receptor,400,Histamine receptor antagonist,Antacid,314.37,Moderate
+Cimetidine,CC1=C(N=CN1)CSCCNC(=NC)NC#N,Histamine receptor,300,Inhibits stomach acid production,Antacid,299.35,Moderate
+Cetirizine,C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,H1 receptor,300,H1 receptor antagonism,Antihistamine,383.87,Low
+Prednisolone,CC12CC(C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C)O,Glucocorticoid receptor,400,Corticosteroid receptor agonist,Anti-inflammatory,374.46,Moderate
+Hydroxychloroquine,CCN(CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl)CCO,Plasmodium,500,Inhibits parasite replication,Antimalarial,334.91,High
+Atorvastatin,CC(C)C1=C(C(=C(N1CCC(CC(CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4,HMG-CoA reductase,450,Inhibits cholesterol synthesis,Statin,558.63,Low
+Cimetidine,CC1=C(N=CN1)CSCCNC(=NC)NC#N,Histamine receptor,300,Inhibits stomach acid production,Antacid,299.35,Moderate
